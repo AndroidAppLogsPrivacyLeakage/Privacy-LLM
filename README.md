@@ -10,4 +10,4 @@
 ### This folder includes summaries of various privacy leakage cases identified during the study and full list of privacy leakage cases from third-party libraries.
 
 
-#### To comply with double-blind review and avoid revealing our identity due to private information in the log dataset, the original raw dataset will be made publicly available after the paper is accepted.
+#### The original raw dataset will be made publicly available after the paper is accepted.
