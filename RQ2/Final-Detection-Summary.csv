@@ -1,10 +1,11 @@
-Type,app,COUNTA of Type
-Manufacturer / model,297,7187
-GPS,217,732
-xxx135@gmail.com,96,218
-xxx23@gmail.com,45,194
-Name,24,82
-IP,6,18
-Coarse location,10,13
-Fine-grained location,9,11
-Grand Total,299,8455
+Type,Info,app,COUNTA of Type
+Manufacturer / model,"Google Pixel 5a/Google
+Pixel/Pixel 5a/Pixel",297,7187
+GPS,"43.*, -77.*",217,732
+Email,rit135@gmail.com,96,218
+Email,rit23@gmail.com,45,194
+Name,rit research,24,82
+IP,68.180.86.24,6,18
+Coarse location,New York,10,13
+Fine-grained location,Rochester,9,11
+Grand Total,,299,8455
