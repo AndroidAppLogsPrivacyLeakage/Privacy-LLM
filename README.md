@@ -1,4 +1,4 @@
-# Assessing the Severity of Privacy Leakage from Logs: An Empirical Scale on Android Apps
+# Assessing Privacy Leakage in Android App Logs: An Empirical Study of Recorded and Real-World Cases
 
 ## Overview
 ### This repository contains resources related to the empirical assessment of privacy leakage severity from logs in Android applications. 
