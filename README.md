@@ -20,4 +20,4 @@ This folder contains the RQ2 results, documentation, and prompts:
 - `Final-Detection-Summary.csv`: Aggregate summary of the final RQ2 detection results.
 - `Third-Party-Libraries.csv`: Privacy leakage cases associated with third-party libraries.
 - `zero-shot-prompt.txt`: Zero-shot prompt used for the direct privacy detection stage.
-- `few-shot-prompt.txt`: Prompt-enhanced template used for the RQ2 privacy detection stage, including known privacy categories and representative value patterns.
+- `few-shot-prompt.txt`: Prompt-enhanced template used for the RQ2 privacy detection stage, including known privacy categories and representative value patterns. To avoid disclosing information about the authors, the actual sensitive values have been omitted and replaced with `xx` or `xxx`.
