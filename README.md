@@ -8,6 +8,3 @@
 
 ## RQ2 Folder
 ### This folder includes summaries of various privacy leakage cases identified during the study and full list of privacy leakage cases from third-party libraries.
-
-
-#### The original raw dataset will be made publicly available after the paper is accepted.

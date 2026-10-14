@@ -1,0 +1,7 @@
+The file is an Android log file and I need you to analyze each log line in the file to find out if it contains private information.
+The output file has 4 requirements:
+1. The output file should be in tsv format.
+
+2. The output file has 5 columns, the first row should be ID, Sentence, Value, Description, Type.
+
+3. The following are the requirements for each column The ID column is the original order of each log line. The Sentence column is the original log line. The Value column has two different values, 1 and 0. 1 means that this log line contains private information and 0 means that this log line does not contain private information. The Description column is if this log line contains private information and the corresponding value column is 1, list what you think is private information in this cell, just copy the private information and do not modify the original information. The Type column is the type of privacy information.
