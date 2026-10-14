@@ -13,7 +13,7 @@ This folder contains the filtered Common Vulnerabilities and Exposures (CVE) rec
 ## RQ2 Folder
 This folder contains the RQ2 results, documentation, and prompts:
 
-- `AssessingPrivacyLeakageinAndroidAppLogsAnEmpiricalStudyofRecordedandReal-WorldCases.pdf`: PDF document accompanying the study.
+- `RQ2_Supplementary_Results.pdf`: PDF document accompanying the study.
 - `Final-Detection-File-Cases.csv`: Detailed privacy leakage cases retained after the final detection and validation process.
 - `Final-Detection-Summary.csv`: Aggregate summary of the final RQ2 detection results.
 - `Third-Party-Libraries.csv`: Privacy leakage cases associated with third-party libraries.
