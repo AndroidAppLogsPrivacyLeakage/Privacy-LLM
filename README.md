@@ -5,7 +5,7 @@ This repository contains resources related to the empirical assessment of privac
 
 ## Log Dataset
 
-- `logfile.zip`: Raw Android log files collected from 300 apps. The archive is stored using Git LFS.
+- `logfile.zip`: Android log files collected from 300 apps. The archive is stored using Git LFS.
 
 ## RQ1 Folder
 This folder contains the filtered Common Vulnerabilities and Exposures (CVE) records that were analyzed as part of RQ1.
