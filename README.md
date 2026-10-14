@@ -9,6 +9,8 @@ This repository contains resources related to the empirical assessment of privac
 
 ## RQ1 Folder
 This folder contains the filtered Common Vulnerabilities and Exposures (CVE) records that were analyzed as part of RQ1.
+- `CVSS.csv`: Filtered Android log-related CVE records with CVSS scores, severity levels, exploitability and impact scores, and CVSS metrics.
+- `RQ1_summary.csv`: Manually reviewed RQ1 results identifying the privacy information exposed in each CVE and whether the case contains personally identifiable information (PII).
 
 ## RQ2 Folder
 This folder contains the RQ2 results, documentation, and prompts:
