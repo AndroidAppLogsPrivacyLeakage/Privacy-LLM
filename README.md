@@ -1,10 +1,21 @@
 # Assessing Privacy Leakage in Android App Logs: An Empirical Study of Recorded and Real-World Cases
 
 ## Overview
-### This repository contains resources related to the empirical assessment of privacy leakage severity from logs in Android applications. 
+This repository contains resources related to the empirical assessment of privacy leakage severity from logs in Android applications.
+
+## Log Dataset
+
+- `logfile.zip`: Raw Android log files collected from 300 apps. The archive is stored using Git LFS.
 
 ## RQ1 Folder
-### This folder contains the filtered Common Vulnerabilities and Exposures (CVE) records that were analyzed as part of RQ1.
+This folder contains the filtered Common Vulnerabilities and Exposures (CVE) records that were analyzed as part of RQ1.
 
 ## RQ2 Folder
-### This folder includes summaries of various privacy leakage cases identified during the study and full list of privacy leakage cases from third-party libraries.
+This folder contains the RQ2 results, documentation, and prompts:
+
+- `AssessingPrivacyLeakageinAndroidAppLogsAnEmpiricalStudyofRecordedandReal-WorldCases.pdf`: PDF document accompanying the study.
+- `Final-Detection-File-Cases.csv`: Detailed privacy leakage cases retained after the final detection and validation process.
+- `Final-Detection-Summary.csv`: Aggregate summary of the final RQ2 detection results.
+- `Third-Party-Libraries.csv`: Privacy leakage cases associated with third-party libraries.
+- `zero-shot-prompt.txt`: Zero-shot prompt used for the direct privacy detection stage.
+- `few-shot-prompt.txt`: Prompt-enhanced template used for the RQ2 privacy detection stage, including known privacy categories and representative value patterns.
